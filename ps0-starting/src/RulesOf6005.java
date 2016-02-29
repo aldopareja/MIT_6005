@@ -42,7 +42,8 @@ public class RulesOf6005 {
 	 */
 	public static int computeGrade(int quiz, int pset, int project, int participation){
 		// TODO: Fill in this method, then remove the RuntimeException
-        throw new RuntimeException("computeGrade not implemented");
+		int grade = (quiz+pset+participation)/3;
+		return grade;
 	}
 	
 	
