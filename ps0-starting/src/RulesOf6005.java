@@ -23,7 +23,7 @@ public class RulesOf6005 {
 	 */
 	public static boolean hasFeature(String name){
 		// TODO: Fill in this method, then remove the RuntimeException
-        throw new RuntimeException("hasFeature not implemented");
+		return(true);
 	}
 	
 	
